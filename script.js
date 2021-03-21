@@ -1,4 +1,4 @@
-let countyURL = './alabama.json'
+let countyURL = './counties.json'
 let educationURL = 'https://cdn.freecodecamp.org/testable-projects-fcc/data/choropleth_map/for_user_education.json'
 
 let countyData
