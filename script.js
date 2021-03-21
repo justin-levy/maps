@@ -1,5 +1,5 @@
 let countyURL = './counties.json'
-let educationURL = './for_user_education.json'
+let educationURL = './alabama_data.json'
 
 let countyData
 let educationData
