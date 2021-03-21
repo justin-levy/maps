@@ -1,0 +1,404 @@
+[
+	{
+		"fips": 1001,
+		"state": "AL",
+		"area_name": "Autauga County",
+		"bachelorsOrHigher": 21.9
+	},
+	{
+		"fips": 1003,
+		"state": "AL",
+		"area_name": "Baldwin County",
+		"bachelorsOrHigher": 28.6
+	},
+	{
+		"fips": 1005,
+		"state": "AL",
+		"area_name": "Barbour County",
+		"bachelorsOrHigher": 13.6
+	},
+	{
+		"fips": 1007,
+		"state": "AL",
+		"area_name": "Bibb County",
+		"bachelorsOrHigher": 10.2
+	},
+	{
+		"fips": 1009,
+		"state": "AL",
+		"area_name": "Blount County",
+		"bachelorsOrHigher": 12.3
+	},
+	{
+		"fips": 1011,
+		"state": "AL",
+		"area_name": "Bullock County",
+		"bachelorsOrHigher": 14.1
+	},
+	{
+		"fips": 1013,
+		"state": "AL",
+		"area_name": "Butler County",
+		"bachelorsOrHigher": 14.3
+	},
+	{
+		"fips": 1015,
+		"state": "AL",
+		"area_name": "Calhoun County",
+		"bachelorsOrHigher": 16.9
+	},
+	{
+		"fips": 1017,
+		"state": "AL",
+		"area_name": "Chambers County",
+		"bachelorsOrHigher": 12.2
+	},
+	{
+		"fips": 1019,
+		"state": "AL",
+		"area_name": "Cherokee County",
+		"bachelorsOrHigher": 13.7
+	},
+	{
+		"fips": 1021,
+		"state": "AL",
+		"area_name": "Chilton County",
+		"bachelorsOrHigher": 13.5
+	},
+	{
+		"fips": 1023,
+		"state": "AL",
+		"area_name": "Choctaw County",
+		"bachelorsOrHigher": 12.8
+	},
+	{
+		"fips": 1025,
+		"state": "AL",
+		"area_name": "Clarke County",
+		"bachelorsOrHigher": 11.9
+	},
+	{
+		"fips": 1027,
+		"state": "AL",
+		"area_name": "Clay County",
+		"bachelorsOrHigher": 8.6
+	},
+	{
+		"fips": 1029,
+		"state": "AL",
+		"area_name": "Cleburne County",
+		"bachelorsOrHigher": 10.6
+	},
+	{
+		"fips": 1031,
+		"state": "AL",
+		"area_name": "Coffee County",
+		"bachelorsOrHigher": 23.2
+	},
+	{
+		"fips": 1033,
+		"state": "AL",
+		"area_name": "Colbert County",
+		"bachelorsOrHigher": 17.6
+	},
+	{
+		"fips": 1035,
+		"state": "AL",
+		"area_name": "Conecuh County",
+		"bachelorsOrHigher": 8.3
+	},
+	{
+		"fips": 1037,
+		"state": "AL",
+		"area_name": "Coosa County",
+		"bachelorsOrHigher": 9.1
+	},
+	{
+		"fips": 1039,
+		"state": "AL",
+		"area_name": "Covington County",
+		"bachelorsOrHigher": 14.6
+	},
+	{
+		"fips": 1041,
+		"state": "AL",
+		"area_name": "Crenshaw County",
+		"bachelorsOrHigher": 12.5
+	},
+	{
+		"fips": 1043,
+		"state": "AL",
+		"area_name": "Cullman County",
+		"bachelorsOrHigher": 15.1
+	},
+	{
+		"fips": 1045,
+		"state": "AL",
+		"area_name": "Dale County",
+		"bachelorsOrHigher": 16.9
+	},
+	{
+		"fips": 1047,
+		"state": "AL",
+		"area_name": "Dallas County",
+		"bachelorsOrHigher": 14.5
+	},
+	{
+		"fips": 1049,
+		"state": "AL",
+		"area_name": "DeKalb County",
+		"bachelorsOrHigher": 11.3
+	},
+	{
+		"fips": 1051,
+		"state": "AL",
+		"area_name": "Elmore County",
+		"bachelorsOrHigher": 21.4
+	},
+	{
+		"fips": 1053,
+		"state": "AL",
+		"area_name": "Escambia County",
+		"bachelorsOrHigher": 12.5
+	},
+	{
+		"fips": 1055,
+		"state": "AL",
+		"area_name": "Etowah County",
+		"bachelorsOrHigher": 15.4
+	},
+	{
+		"fips": 1057,
+		"state": "AL",
+		"area_name": "Fayette County",
+		"bachelorsOrHigher": 13.8
+	},
+	{
+		"fips": 1059,
+		"state": "AL",
+		"area_name": "Franklin County",
+		"bachelorsOrHigher": 10.9
+	},
+	{
+		"fips": 1061,
+		"state": "AL",
+		"area_name": "Geneva County",
+		"bachelorsOrHigher": 11.2
+	},
+	{
+		"fips": 1063,
+		"state": "AL",
+		"area_name": "Greene County",
+		"bachelorsOrHigher": 11.5
+	},
+	{
+		"fips": 1065,
+		"state": "AL",
+		"area_name": "Hale County",
+		"bachelorsOrHigher": 14
+	},
+	{
+		"fips": 1067,
+		"state": "AL",
+		"area_name": "Henry County",
+		"bachelorsOrHigher": 16.8
+	},
+	{
+		"fips": 1069,
+		"state": "AL",
+		"area_name": "Houston County",
+		"bachelorsOrHigher": 20.1
+	},
+	{
+		"fips": 1071,
+		"state": "AL",
+		"area_name": "Jackson County",
+		"bachelorsOrHigher": 12.9
+	},
+	{
+		"fips": 1073,
+		"state": "AL",
+		"area_name": "Jefferson County",
+		"bachelorsOrHigher": 30.3
+	},
+	{
+		"fips": 1075,
+		"state": "AL",
+		"area_name": "Lamar County",
+		"bachelorsOrHigher": 11.4
+	},
+	{
+		"fips": 1077,
+		"state": "AL",
+		"area_name": "Lauderdale County",
+		"bachelorsOrHigher": 22.1
+	},
+	{
+		"fips": 1079,
+		"state": "AL",
+		"area_name": "Lawrence County",
+		"bachelorsOrHigher": 11.3
+	},
+	{
+		"fips": 1081,
+		"state": "AL",
+		"area_name": "Lee County",
+		"bachelorsOrHigher": 33.2
+	},
+	{
+		"fips": 1083,
+		"state": "AL",
+		"area_name": "Limestone County",
+		"bachelorsOrHigher": 23.1
+	},
+	{
+		"fips": 1085,
+		"state": "AL",
+		"area_name": "Lowndes County",
+		"bachelorsOrHigher": 13.2
+	},
+	{
+		"fips": 1087,
+		"state": "AL",
+		"area_name": "Macon County",
+		"bachelorsOrHigher": 19.4
+	},
+	{
+		"fips": 1089,
+		"state": "AL",
+		"area_name": "Madison County",
+		"bachelorsOrHigher": 38.6
+	},
+	{
+		"fips": 1091,
+		"state": "AL",
+		"area_name": "Marengo County",
+		"bachelorsOrHigher": 16
+	},
+	{
+		"fips": 1093,
+		"state": "AL",
+		"area_name": "Marion County",
+		"bachelorsOrHigher": 11.1
+	},
+	{
+		"fips": 1095,
+		"state": "AL",
+		"area_name": "Marshall County",
+		"bachelorsOrHigher": 16.1
+	},
+	{
+		"fips": 1097,
+		"state": "AL",
+		"area_name": "Mobile County",
+		"bachelorsOrHigher": 21.4
+	},
+	{
+		"fips": 1099,
+		"state": "AL",
+		"area_name": "Monroe County",
+		"bachelorsOrHigher": 12.5
+	},
+	{
+		"fips": 1101,
+		"state": "AL",
+		"area_name": "Montgomery County",
+		"bachelorsOrHigher": 31.3
+	},
+	{
+		"fips": 1103,
+		"state": "AL",
+		"area_name": "Morgan County",
+		"bachelorsOrHigher": 19.9
+	},
+	{
+		"fips": 1105,
+		"state": "AL",
+		"area_name": "Perry County",
+		"bachelorsOrHigher": 9.1
+	},
+	{
+		"fips": 1107,
+		"state": "AL",
+		"area_name": "Pickens County",
+		"bachelorsOrHigher": 9.6
+	},
+	{
+		"fips": 1109,
+		"state": "AL",
+		"area_name": "Pike County",
+		"bachelorsOrHigher": 23.6
+	},
+	{
+		"fips": 1111,
+		"state": "AL",
+		"area_name": "Randolph County",
+		"bachelorsOrHigher": 12.4
+	},
+	{
+		"fips": 1113,
+		"state": "AL",
+		"area_name": "Russell County",
+		"bachelorsOrHigher": 15.5
+	},
+	{
+		"fips": 1115,
+		"state": "AL",
+		"area_name": "St. Clair County",
+		"bachelorsOrHigher": 15.5
+	},
+	{
+		"fips": 1117,
+		"state": "AL",
+		"area_name": "Shelby County",
+		"bachelorsOrHigher": 40.2
+	},
+	{
+		"fips": 1119,
+		"state": "AL",
+		"area_name": "Sumter County",
+		"bachelorsOrHigher": 15
+	},
+	{
+		"fips": 1121,
+		"state": "AL",
+		"area_name": "Talladega County",
+		"bachelorsOrHigher": 12.5
+	},
+	{
+		"fips": 1123,
+		"state": "AL",
+		"area_name": "Tallapoosa County",
+		"bachelorsOrHigher": 17.6
+	},
+	{
+		"fips": 1125,
+		"state": "AL",
+		"area_name": "Tuscaloosa County",
+		"bachelorsOrHigher": 27.7
+	},
+	{
+		"fips": 1127,
+		"state": "AL",
+		"area_name": "Walker County",
+		"bachelorsOrHigher": 10.7
+	},
+	{
+		"fips": 1129,
+		"state": "AL",
+		"area_name": "Washington County",
+		"bachelorsOrHigher": 10.3
+	},
+	{
+		"fips": 1131,
+		"state": "AL",
+		"area_name": "Wilcox County",
+		"bachelorsOrHigher": 11.5
+	},
+	{
+		"fips": 1133,
+		"state": "AL",
+		"area_name": "Winston County",
+		"bachelorsOrHigher": 11.1
+	}
+]
